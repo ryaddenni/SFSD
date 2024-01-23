@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define BUFFER_SIZE 128
+#define BUFFER_SIZE 1024
 
 // Structure to represent an individual
 struct Person {
